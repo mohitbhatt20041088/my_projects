@@ -1,0 +1,17 @@
+body{
+    background-color: palegoldenrod;
+}
+.upper{
+    color: red;
+}
+.summary{
+    color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img{
+    color: white;
+    background-color: red;
+}
+h1 :hover{
+background-color: white;
+}
